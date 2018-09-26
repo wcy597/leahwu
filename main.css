@@ -1,0 +1,31 @@
+.box {
+  height: 30px;
+  background-color: #bbb;
+}
+a {
+  position: relative;
+  top: 6px;
+  margin: 100px;
+  color: #fff;
+}
+#paragraph {
+  min-height: 700px;
+  color: #fff;
+  margin: 10px auto;
+}
+img {
+  width: 500px;
+  padding: 20px 10px 0px 15px;
+}
+#sidebar-left {
+  background: #bbb;
+  width: px;
+  float: left;
+  padding: 5px 15px 26px 10px;
+}
+#sidebar-right {
+  background: #bbb;
+  padding: 5px 15px;
+  float: right;
+  width: 660px;
+}
